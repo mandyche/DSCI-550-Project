@@ -10,12 +10,9 @@ satisfaction, and retention within a corporate environment. We will categorize e
 high, mid, and low performers [2] to explore the intersection of remote work frequency and job
 satisfaction within each group.
 Our specific research questions specifically include:
-● Do high-performing employees report higher satisfaction levels with increased remote
-work as observed in previous findings by [1]?
-● What percentage of low performers primarily work remotely, and does remote work
-impact their productivity?
-● How does remote work frequency vary across performance categories (high, mid, low),
-and how does this influence retention?
+● Do high-performing employees report higher satisfaction levels with increased remote work as observed in previous findings by [1]?
+● What percentage of low performers primarily work remotely, and does remote work impact their productivity?
+● How does remote work frequency vary across performance categories (high, mid, low), and how does this influence retention?
 
 Dataset:
 https://www.kaggle.com/datasets/mexwell/employee-performance-and-productivity-data
